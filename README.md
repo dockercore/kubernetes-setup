@@ -1,5 +1,4 @@
-# Kubernetes
-Kubernetes 快速部署k8s集群只需要10分钟
+          Kubernetes 快速部署k8s集群只需要10分钟
 
 部署前提环境：
   1.准备至少3台服务器（阿里云或者腾讯云，aws,物理机，虚拟机都可以）
