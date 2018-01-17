@@ -1,1 +1,2 @@
-install
+导入所有镜像
+执行 sh docker-load.sh
